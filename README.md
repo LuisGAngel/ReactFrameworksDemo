@@ -1,0 +1,2 @@
+# Introduction
+This repository contains two separate projects: one built with Next.js and the other with Remix. Both projects aim to demonstrate the core features and capabilities of each framework, providing a hands-on learning experience.
